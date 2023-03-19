@@ -31,7 +31,7 @@ class Program
         string nama = "Herdi Ardana";
         halo.SapaUser(nama);
 
-        DataGeneric<string> data = new DataGeneric<string>("1302210032");
+        DataGeneric<string> data = new DataGeneric<string>("1302210078");
         data.PrintData();
     }
 }
